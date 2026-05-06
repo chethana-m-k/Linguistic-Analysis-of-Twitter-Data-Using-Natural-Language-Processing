@@ -1,3 +1,6 @@
+
+**Linguistic Analysis of Tweets – Using Data Mining to study usage of English on Twitter
+**
 The recent evolution in everyday language usage has significantly transformed the way people communicate in digital environments. With the widespread adoption of social media platforms, there has been a noticeable increase in the use of abbreviations, shorthand expressions, emojis, and hybrid words, leading to a deviation from traditional English vocabulary and grammar structures.
 
 This study focuses on analyzing linguistic patterns in user-generated content collected from Twitter, a widely used social media platform where users express opinions and emotions in real time. The dataset consists of randomly sampled tweets written in English, making it suitable for unbiased linguistic analysis.
