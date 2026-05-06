@@ -1,0 +1,2 @@
+# Linguistic-Analysis-of-Twitter-Data-Using-Natural-Language-Processing
+A Natural Language Processing project that performs linguistic and exploratory analysis on Twitter data. The project involves text preprocessing, tokenization, stopword removal, and frequency analysis to extract meaningful patterns from social media text. It helps understand language usage, noise in raw text, and common word trends in tweets.
